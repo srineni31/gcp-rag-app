@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-firestore
+langchain
+langchain-community
+langchain-google-vertexai
+langchain-text-splitters
+pypdf
