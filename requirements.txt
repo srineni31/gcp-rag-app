@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-firestore
+langchain
+langchain-community
+langchain-google-vertexai
+google-cloud-aiplatform
+flask
